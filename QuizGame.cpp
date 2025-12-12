@@ -1,5 +1,5 @@
 //
-// Created by furqat on 29.11.2025.
+// Created by Furqat on 29.11.2025.
 //
 
 #include <iostream>
@@ -50,3 +50,4 @@ string questions[] = {
 
     return 0;
 }
+
